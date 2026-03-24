@@ -1,0 +1,33 @@
+{
+  "name": "namastereact",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitsnwheels/NamasteReact.git"
+  },
+  "author": "Adarsh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bitsnwheels/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/bitsnwheels/NamasteReact#readme",
+  "description": "",
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4"
+  },
+  "browserslist": [
+    "last 10 Chrome version",
+    "last 10 Safari version",
+    "last 10 Firefox version",
+    "last 10 Edge version"
+  ]
+}
